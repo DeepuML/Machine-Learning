@@ -26,11 +26,17 @@ Welcome to my Machine Learning repository! This repo contains a collection of pr
 ## 🗂 Project Structure
 
 📁 MachineLearningRepo/
+
 ├── 📁 datasets/ # Raw datasets
+
 ├── 📁 notebooks/ # Jupyter notebooks for each project
+
 ├── 📁 models/ # Saved ML models (pkl files)
+
 ├── 📁 streamlit_apps/ # Streamlit-based model apps
+
 ├── 📁 utils/ # Helper functions for preprocessing, plotting
+
 ├── requirements.txt
 └── README.md
 
