@@ -38,10 +38,13 @@ Welcome to my Machine Learning repository! This repo contains a collection of pr
 ├── 📁 utils/ # Helper functions for preprocessing, plotting
 
 ├── requirements.txt
+
 └── README.md
 
-🚀 How to Run a Streamlit App
+🚀 How to Run a Streamlit App : 
+
 cd streamlit_apps
+
 streamlit run your_app.py
 
 📁 Example Projects
