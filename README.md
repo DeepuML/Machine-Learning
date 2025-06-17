@@ -48,7 +48,9 @@ cd streamlit_apps
 streamlit run your_app.py
 
 📁 Example Projects
+
 1. 📊 Polynomial Regression with Ridge and Lasso
+   
 Trains multiple polynomial models with Ridge/Lasso
 
 Saves models and predictions using pickle
@@ -56,6 +58,7 @@ Saves models and predictions using pickle
 Streamlit UI for visualization
 
 2. 📉 Student Performance Prediction
+   
 Predict student outcomes based on study hours, test scores
 
 Includes SHAP/LIME explainability
@@ -63,6 +66,7 @@ Includes SHAP/LIME explainability
 Upload CSV and get batch predictions
 
 🧠 Algorithms Used
+
 Supervised Learning: Linear, Logistic, Ridge, Lasso, Decision Tree, Random Forest, KNN
 
 Unsupervised Learning: KMeans, DBSCAN
@@ -72,6 +76,7 @@ Dimensionality Reduction: PCA
 Model Evaluation: Accuracy, R², RMSE, AUC
 
 📚 Datasets
+
 Most datasets are taken from:
 
 📁 datasets/ folder
@@ -79,6 +84,7 @@ Most datasets are taken from:
 Public sources like Kaggle, UCI ML Repository
 
 💡 Future Work
+
 🧠 Deep Learning projects using TensorFlow/Keras
 
 🧾 NLP Projects (Sentiment Analysis, Text Classification)
@@ -88,12 +94,16 @@ Public sources like Kaggle, UCI ML Repository
 ⛓️ AI + Blockchain integrations
 
 🤝 Contributing
+
 If you find issues or want to contribute new models/datasets, feel free to open a PR!
 
 
 📧 Contact
+
 Made with ❤️ by [Deepu]
+
 📩 Email: mahakal12321@gmail.com
+
 🐙 GitHub: [https://github.com/DeepuML]
 
 
